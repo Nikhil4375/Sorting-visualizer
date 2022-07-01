@@ -21,7 +21,7 @@
 <br />
 
 > ## Sorted Array
-![Quick Sort](https://user-images.githubusercontent.com/52111635/168356389-5ee4da1e-f4c7-4f3d-bf57-e036f752efe3.png)
+![Merge Sort](https://user-images.githubusercontent.com/52111635/168356389-5ee4da1e-f4c7-4f3d-bf57-e036f752efe3.png)
 
 <br />
 

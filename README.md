@@ -2,7 +2,7 @@
 
 - This is a visualization tool for sorting algorithm made using React JS.
 - I build this project because I fascinated by the sorting algorithms and wanted to visualize them in action.
-- It also help others to comprehend the internal working of various sorting algorithms.
+- It also help others to comprehend the internal working of a sorting algorithm.
 
 ## Implemented Merge Sorting Algorithm
 
